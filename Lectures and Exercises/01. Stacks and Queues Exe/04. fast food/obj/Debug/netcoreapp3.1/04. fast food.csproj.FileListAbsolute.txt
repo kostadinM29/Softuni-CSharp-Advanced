@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\adv stacks and qqs exe\04. fast food\bin\Debug\netcoreapp3.1\04. fast food.exe
+C:\Users\User\source\repos\adv stacks and qqs exe\04. fast food\bin\Debug\netcoreapp3.1\04. fast food.deps.json
+C:\Users\User\source\repos\adv stacks and qqs exe\04. fast food\bin\Debug\netcoreapp3.1\04. fast food.runtimeconfig.json
+C:\Users\User\source\repos\adv stacks and qqs exe\04. fast food\bin\Debug\netcoreapp3.1\04. fast food.runtimeconfig.dev.json
+C:\Users\User\source\repos\adv stacks and qqs exe\04. fast food\bin\Debug\netcoreapp3.1\04. fast food.dll
+C:\Users\User\source\repos\adv stacks and qqs exe\04. fast food\bin\Debug\netcoreapp3.1\04. fast food.pdb
+C:\Users\User\source\repos\adv stacks and qqs exe\04. fast food\obj\Debug\netcoreapp3.1\04. fast food.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\adv stacks and qqs exe\04. fast food\obj\Debug\netcoreapp3.1\04. fast food.AssemblyInfo.cs
+C:\Users\User\source\repos\adv stacks and qqs exe\04. fast food\obj\Debug\netcoreapp3.1\04. fast food.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adv stacks and qqs exe\04. fast food\obj\Debug\netcoreapp3.1\04. fast food.dll
+C:\Users\User\source\repos\adv stacks and qqs exe\04. fast food\obj\Debug\netcoreapp3.1\04. fast food.pdb
+C:\Users\User\source\repos\adv stacks and qqs exe\04. fast food\obj\Debug\netcoreapp3.1\04. fast food.genruntimeconfig.cache

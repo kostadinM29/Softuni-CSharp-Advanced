@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\adv stacks and qqs exe\01. basic stack operations\bin\Debug\netcoreapp3.1\01. basic stack operations.exe
+C:\Users\User\source\repos\adv stacks and qqs exe\01. basic stack operations\bin\Debug\netcoreapp3.1\01. basic stack operations.deps.json
+C:\Users\User\source\repos\adv stacks and qqs exe\01. basic stack operations\bin\Debug\netcoreapp3.1\01. basic stack operations.runtimeconfig.json
+C:\Users\User\source\repos\adv stacks and qqs exe\01. basic stack operations\bin\Debug\netcoreapp3.1\01. basic stack operations.runtimeconfig.dev.json
+C:\Users\User\source\repos\adv stacks and qqs exe\01. basic stack operations\bin\Debug\netcoreapp3.1\01. basic stack operations.dll
+C:\Users\User\source\repos\adv stacks and qqs exe\01. basic stack operations\bin\Debug\netcoreapp3.1\01. basic stack operations.pdb
+C:\Users\User\source\repos\adv stacks and qqs exe\01. basic stack operations\obj\Debug\netcoreapp3.1\01. basic stack operations.csprojAssemblyReference.cache
+C:\Users\User\source\repos\adv stacks and qqs exe\01. basic stack operations\obj\Debug\netcoreapp3.1\01. basic stack operations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\adv stacks and qqs exe\01. basic stack operations\obj\Debug\netcoreapp3.1\01. basic stack operations.AssemblyInfo.cs
+C:\Users\User\source\repos\adv stacks and qqs exe\01. basic stack operations\obj\Debug\netcoreapp3.1\01. basic stack operations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adv stacks and qqs exe\01. basic stack operations\obj\Debug\netcoreapp3.1\01. basic stack operations.dll
+C:\Users\User\source\repos\adv stacks and qqs exe\01. basic stack operations\obj\Debug\netcoreapp3.1\01. basic stack operations.pdb
+C:\Users\User\source\repos\adv stacks and qqs exe\01. basic stack operations\obj\Debug\netcoreapp3.1\01. basic stack operations.genruntimeconfig.cache

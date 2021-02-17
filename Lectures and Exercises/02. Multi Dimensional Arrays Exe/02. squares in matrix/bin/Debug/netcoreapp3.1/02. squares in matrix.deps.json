@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "02. squares in matrix/1.0.0": {
+        "runtime": {
+          "02. squares in matrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02. squares in matrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\adv multid arrays exe\04. matrix shuffling\bin\Debug\netcoreapp3.1\04. matrix shuffling.exe
+C:\Users\User\source\repos\adv multid arrays exe\04. matrix shuffling\bin\Debug\netcoreapp3.1\04. matrix shuffling.deps.json
+C:\Users\User\source\repos\adv multid arrays exe\04. matrix shuffling\bin\Debug\netcoreapp3.1\04. matrix shuffling.runtimeconfig.json
+C:\Users\User\source\repos\adv multid arrays exe\04. matrix shuffling\bin\Debug\netcoreapp3.1\04. matrix shuffling.runtimeconfig.dev.json
+C:\Users\User\source\repos\adv multid arrays exe\04. matrix shuffling\bin\Debug\netcoreapp3.1\04. matrix shuffling.dll
+C:\Users\User\source\repos\adv multid arrays exe\04. matrix shuffling\bin\Debug\netcoreapp3.1\04. matrix shuffling.pdb
+C:\Users\User\source\repos\adv multid arrays exe\04. matrix shuffling\obj\Debug\netcoreapp3.1\04. matrix shuffling.csprojAssemblyReference.cache
+C:\Users\User\source\repos\adv multid arrays exe\04. matrix shuffling\obj\Debug\netcoreapp3.1\04. matrix shuffling.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\adv multid arrays exe\04. matrix shuffling\obj\Debug\netcoreapp3.1\04. matrix shuffling.AssemblyInfo.cs
+C:\Users\User\source\repos\adv multid arrays exe\04. matrix shuffling\obj\Debug\netcoreapp3.1\04. matrix shuffling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adv multid arrays exe\04. matrix shuffling\obj\Debug\netcoreapp3.1\04. matrix shuffling.dll
+C:\Users\User\source\repos\adv multid arrays exe\04. matrix shuffling\obj\Debug\netcoreapp3.1\04. matrix shuffling.pdb
+C:\Users\User\source\repos\adv multid arrays exe\04. matrix shuffling\obj\Debug\netcoreapp3.1\04. matrix shuffling.genruntimeconfig.cache

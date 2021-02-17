@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\adv multid arrays lab\04. symbol matrix\bin\Debug\netcoreapp3.1\04. symbol matrix.exe
+C:\Users\User\source\repos\adv multid arrays lab\04. symbol matrix\bin\Debug\netcoreapp3.1\04. symbol matrix.deps.json
+C:\Users\User\source\repos\adv multid arrays lab\04. symbol matrix\bin\Debug\netcoreapp3.1\04. symbol matrix.runtimeconfig.json
+C:\Users\User\source\repos\adv multid arrays lab\04. symbol matrix\bin\Debug\netcoreapp3.1\04. symbol matrix.runtimeconfig.dev.json
+C:\Users\User\source\repos\adv multid arrays lab\04. symbol matrix\bin\Debug\netcoreapp3.1\04. symbol matrix.dll
+C:\Users\User\source\repos\adv multid arrays lab\04. symbol matrix\bin\Debug\netcoreapp3.1\04. symbol matrix.pdb
+C:\Users\User\source\repos\adv multid arrays lab\04. symbol matrix\obj\Debug\netcoreapp3.1\04. symbol matrix.csprojAssemblyReference.cache
+C:\Users\User\source\repos\adv multid arrays lab\04. symbol matrix\obj\Debug\netcoreapp3.1\04. symbol matrix.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\adv multid arrays lab\04. symbol matrix\obj\Debug\netcoreapp3.1\04. symbol matrix.AssemblyInfo.cs
+C:\Users\User\source\repos\adv multid arrays lab\04. symbol matrix\obj\Debug\netcoreapp3.1\04. symbol matrix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adv multid arrays lab\04. symbol matrix\obj\Debug\netcoreapp3.1\04. symbol matrix.dll
+C:\Users\User\source\repos\adv multid arrays lab\04. symbol matrix\obj\Debug\netcoreapp3.1\04. symbol matrix.pdb
+C:\Users\User\source\repos\adv multid arrays lab\04. symbol matrix\obj\Debug\netcoreapp3.1\04. symbol matrix.genruntimeconfig.cache

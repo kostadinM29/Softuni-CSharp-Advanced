@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\adv multid arrays exe\03. matrix sum\bin\Debug\netcoreapp3.1\03. matrix sum.exe
+C:\Users\User\source\repos\adv multid arrays exe\03. matrix sum\bin\Debug\netcoreapp3.1\03. matrix sum.deps.json
+C:\Users\User\source\repos\adv multid arrays exe\03. matrix sum\bin\Debug\netcoreapp3.1\03. matrix sum.runtimeconfig.json
+C:\Users\User\source\repos\adv multid arrays exe\03. matrix sum\bin\Debug\netcoreapp3.1\03. matrix sum.runtimeconfig.dev.json
+C:\Users\User\source\repos\adv multid arrays exe\03. matrix sum\bin\Debug\netcoreapp3.1\03. matrix sum.dll
+C:\Users\User\source\repos\adv multid arrays exe\03. matrix sum\bin\Debug\netcoreapp3.1\03. matrix sum.pdb
+C:\Users\User\source\repos\adv multid arrays exe\03. matrix sum\obj\Debug\netcoreapp3.1\03. matrix sum.csprojAssemblyReference.cache
+C:\Users\User\source\repos\adv multid arrays exe\03. matrix sum\obj\Debug\netcoreapp3.1\03. matrix sum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\adv multid arrays exe\03. matrix sum\obj\Debug\netcoreapp3.1\03. matrix sum.AssemblyInfo.cs
+C:\Users\User\source\repos\adv multid arrays exe\03. matrix sum\obj\Debug\netcoreapp3.1\03. matrix sum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adv multid arrays exe\03. matrix sum\obj\Debug\netcoreapp3.1\03. matrix sum.dll
+C:\Users\User\source\repos\adv multid arrays exe\03. matrix sum\obj\Debug\netcoreapp3.1\03. matrix sum.pdb
+C:\Users\User\source\repos\adv multid arrays exe\03. matrix sum\obj\Debug\netcoreapp3.1\03. matrix sum.genruntimeconfig.cache

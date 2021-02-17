@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\adv stacks and qqs exe\07. truck tour\bin\Debug\netcoreapp3.1\07. truck tour.exe
+C:\Users\User\source\repos\adv stacks and qqs exe\07. truck tour\bin\Debug\netcoreapp3.1\07. truck tour.deps.json
+C:\Users\User\source\repos\adv stacks and qqs exe\07. truck tour\bin\Debug\netcoreapp3.1\07. truck tour.runtimeconfig.json
+C:\Users\User\source\repos\adv stacks and qqs exe\07. truck tour\bin\Debug\netcoreapp3.1\07. truck tour.runtimeconfig.dev.json
+C:\Users\User\source\repos\adv stacks and qqs exe\07. truck tour\bin\Debug\netcoreapp3.1\07. truck tour.dll
+C:\Users\User\source\repos\adv stacks and qqs exe\07. truck tour\bin\Debug\netcoreapp3.1\07. truck tour.pdb
+C:\Users\User\source\repos\adv stacks and qqs exe\07. truck tour\obj\Debug\netcoreapp3.1\07. truck tour.csprojAssemblyReference.cache
+C:\Users\User\source\repos\adv stacks and qqs exe\07. truck tour\obj\Debug\netcoreapp3.1\07. truck tour.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\adv stacks and qqs exe\07. truck tour\obj\Debug\netcoreapp3.1\07. truck tour.AssemblyInfo.cs
+C:\Users\User\source\repos\adv stacks and qqs exe\07. truck tour\obj\Debug\netcoreapp3.1\07. truck tour.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adv stacks and qqs exe\07. truck tour\obj\Debug\netcoreapp3.1\07. truck tour.dll
+C:\Users\User\source\repos\adv stacks and qqs exe\07. truck tour\obj\Debug\netcoreapp3.1\07. truck tour.pdb
+C:\Users\User\source\repos\adv stacks and qqs exe\07. truck tour\obj\Debug\netcoreapp3.1\07. truck tour.genruntimeconfig.cache

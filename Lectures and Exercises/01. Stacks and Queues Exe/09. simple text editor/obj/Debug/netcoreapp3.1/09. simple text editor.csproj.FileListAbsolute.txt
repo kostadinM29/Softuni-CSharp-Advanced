@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\adv stacks and qqs exe\09. simple text editor\bin\Debug\netcoreapp3.1\09. simple text editor.exe
+C:\Users\User\source\repos\adv stacks and qqs exe\09. simple text editor\bin\Debug\netcoreapp3.1\09. simple text editor.deps.json
+C:\Users\User\source\repos\adv stacks and qqs exe\09. simple text editor\bin\Debug\netcoreapp3.1\09. simple text editor.runtimeconfig.json
+C:\Users\User\source\repos\adv stacks and qqs exe\09. simple text editor\bin\Debug\netcoreapp3.1\09. simple text editor.runtimeconfig.dev.json
+C:\Users\User\source\repos\adv stacks and qqs exe\09. simple text editor\bin\Debug\netcoreapp3.1\09. simple text editor.dll
+C:\Users\User\source\repos\adv stacks and qqs exe\09. simple text editor\bin\Debug\netcoreapp3.1\09. simple text editor.pdb
+C:\Users\User\source\repos\adv stacks and qqs exe\09. simple text editor\obj\Debug\netcoreapp3.1\09. simple text editor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\adv stacks and qqs exe\09. simple text editor\obj\Debug\netcoreapp3.1\09. simple text editor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\adv stacks and qqs exe\09. simple text editor\obj\Debug\netcoreapp3.1\09. simple text editor.AssemblyInfo.cs
+C:\Users\User\source\repos\adv stacks and qqs exe\09. simple text editor\obj\Debug\netcoreapp3.1\09. simple text editor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adv stacks and qqs exe\09. simple text editor\obj\Debug\netcoreapp3.1\09. simple text editor.dll
+C:\Users\User\source\repos\adv stacks and qqs exe\09. simple text editor\obj\Debug\netcoreapp3.1\09. simple text editor.pdb
+C:\Users\User\source\repos\adv stacks and qqs exe\09. simple text editor\obj\Debug\netcoreapp3.1\09. simple text editor.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\adv str fil dic exe\06. Zip and Extract\bin\Debug\netcoreapp3.1\06. Zip and Extract.exe
+C:\Users\User\source\repos\adv str fil dic exe\06. Zip and Extract\bin\Debug\netcoreapp3.1\06. Zip and Extract.deps.json
+C:\Users\User\source\repos\adv str fil dic exe\06. Zip and Extract\bin\Debug\netcoreapp3.1\06. Zip and Extract.runtimeconfig.json
+C:\Users\User\source\repos\adv str fil dic exe\06. Zip and Extract\bin\Debug\netcoreapp3.1\06. Zip and Extract.runtimeconfig.dev.json
+C:\Users\User\source\repos\adv str fil dic exe\06. Zip and Extract\bin\Debug\netcoreapp3.1\06. Zip and Extract.dll
+C:\Users\User\source\repos\adv str fil dic exe\06. Zip and Extract\bin\Debug\netcoreapp3.1\06. Zip and Extract.pdb
+C:\Users\User\source\repos\adv str fil dic exe\06. Zip and Extract\obj\Debug\netcoreapp3.1\06. Zip and Extract.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\adv str fil dic exe\06. Zip and Extract\obj\Debug\netcoreapp3.1\06. Zip and Extract.AssemblyInfo.cs
+C:\Users\User\source\repos\adv str fil dic exe\06. Zip and Extract\obj\Debug\netcoreapp3.1\06. Zip and Extract.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adv str fil dic exe\06. Zip and Extract\obj\Debug\netcoreapp3.1\06. Zip and Extract.dll
+C:\Users\User\source\repos\adv str fil dic exe\06. Zip and Extract\obj\Debug\netcoreapp3.1\06. Zip and Extract.pdb
+C:\Users\User\source\repos\adv str fil dic exe\06. Zip and Extract\obj\Debug\netcoreapp3.1\06. Zip and Extract.genruntimeconfig.cache

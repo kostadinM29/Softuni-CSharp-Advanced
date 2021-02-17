@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\adv multid arrays lab\06. jagged matrix\bin\Debug\netcoreapp3.1\06. jagged arrays.exe
+C:\Users\User\source\repos\adv multid arrays lab\06. jagged matrix\bin\Debug\netcoreapp3.1\06. jagged arrays.deps.json
+C:\Users\User\source\repos\adv multid arrays lab\06. jagged matrix\bin\Debug\netcoreapp3.1\06. jagged arrays.runtimeconfig.json
+C:\Users\User\source\repos\adv multid arrays lab\06. jagged matrix\bin\Debug\netcoreapp3.1\06. jagged arrays.runtimeconfig.dev.json
+C:\Users\User\source\repos\adv multid arrays lab\06. jagged matrix\bin\Debug\netcoreapp3.1\06. jagged arrays.dll
+C:\Users\User\source\repos\adv multid arrays lab\06. jagged matrix\bin\Debug\netcoreapp3.1\06. jagged arrays.pdb
+C:\Users\User\source\repos\adv multid arrays lab\06. jagged matrix\obj\Debug\netcoreapp3.1\06. jagged arrays.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\adv multid arrays lab\06. jagged matrix\obj\Debug\netcoreapp3.1\06. jagged arrays.AssemblyInfo.cs
+C:\Users\User\source\repos\adv multid arrays lab\06. jagged matrix\obj\Debug\netcoreapp3.1\06. jagged arrays.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adv multid arrays lab\06. jagged matrix\obj\Debug\netcoreapp3.1\06. jagged arrays.dll
+C:\Users\User\source\repos\adv multid arrays lab\06. jagged matrix\obj\Debug\netcoreapp3.1\06. jagged arrays.pdb
+C:\Users\User\source\repos\adv multid arrays lab\06. jagged matrix\obj\Debug\netcoreapp3.1\06. jagged arrays.genruntimeconfig.cache

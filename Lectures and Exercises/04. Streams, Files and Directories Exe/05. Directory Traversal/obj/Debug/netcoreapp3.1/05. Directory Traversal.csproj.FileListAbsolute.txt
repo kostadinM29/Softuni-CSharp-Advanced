@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\adv str fil dic exe\05. Directory Traversal\bin\Debug\netcoreapp3.1\05. Directory Traversal.exe
+C:\Users\User\source\repos\adv str fil dic exe\05. Directory Traversal\bin\Debug\netcoreapp3.1\05. Directory Traversal.deps.json
+C:\Users\User\source\repos\adv str fil dic exe\05. Directory Traversal\bin\Debug\netcoreapp3.1\05. Directory Traversal.runtimeconfig.json
+C:\Users\User\source\repos\adv str fil dic exe\05. Directory Traversal\bin\Debug\netcoreapp3.1\05. Directory Traversal.runtimeconfig.dev.json
+C:\Users\User\source\repos\adv str fil dic exe\05. Directory Traversal\bin\Debug\netcoreapp3.1\05. Directory Traversal.dll
+C:\Users\User\source\repos\adv str fil dic exe\05. Directory Traversal\bin\Debug\netcoreapp3.1\05. Directory Traversal.pdb
+C:\Users\User\source\repos\adv str fil dic exe\05. Directory Traversal\obj\Debug\netcoreapp3.1\05. Directory Traversal.csprojAssemblyReference.cache
+C:\Users\User\source\repos\adv str fil dic exe\05. Directory Traversal\obj\Debug\netcoreapp3.1\05. Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\adv str fil dic exe\05. Directory Traversal\obj\Debug\netcoreapp3.1\05. Directory Traversal.AssemblyInfo.cs
+C:\Users\User\source\repos\adv str fil dic exe\05. Directory Traversal\obj\Debug\netcoreapp3.1\05. Directory Traversal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adv str fil dic exe\05. Directory Traversal\obj\Debug\netcoreapp3.1\05. Directory Traversal.dll
+C:\Users\User\source\repos\adv str fil dic exe\05. Directory Traversal\obj\Debug\netcoreapp3.1\05. Directory Traversal.pdb
+C:\Users\User\source\repos\adv str fil dic exe\05. Directory Traversal\obj\Debug\netcoreapp3.1\05. Directory Traversal.genruntimeconfig.cache

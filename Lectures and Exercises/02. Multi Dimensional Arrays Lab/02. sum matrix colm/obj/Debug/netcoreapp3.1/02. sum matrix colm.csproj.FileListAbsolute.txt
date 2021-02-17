@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\adv multid arrays lab\02. sum matrix colm\bin\Debug\netcoreapp3.1\02. sum matrix colm.exe
+C:\Users\User\source\repos\adv multid arrays lab\02. sum matrix colm\bin\Debug\netcoreapp3.1\02. sum matrix colm.deps.json
+C:\Users\User\source\repos\adv multid arrays lab\02. sum matrix colm\bin\Debug\netcoreapp3.1\02. sum matrix colm.runtimeconfig.json
+C:\Users\User\source\repos\adv multid arrays lab\02. sum matrix colm\bin\Debug\netcoreapp3.1\02. sum matrix colm.runtimeconfig.dev.json
+C:\Users\User\source\repos\adv multid arrays lab\02. sum matrix colm\bin\Debug\netcoreapp3.1\02. sum matrix colm.dll
+C:\Users\User\source\repos\adv multid arrays lab\02. sum matrix colm\bin\Debug\netcoreapp3.1\02. sum matrix colm.pdb
+C:\Users\User\source\repos\adv multid arrays lab\02. sum matrix colm\obj\Debug\netcoreapp3.1\02. sum matrix colm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\adv multid arrays lab\02. sum matrix colm\obj\Debug\netcoreapp3.1\02. sum matrix colm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\adv multid arrays lab\02. sum matrix colm\obj\Debug\netcoreapp3.1\02. sum matrix colm.AssemblyInfo.cs
+C:\Users\User\source\repos\adv multid arrays lab\02. sum matrix colm\obj\Debug\netcoreapp3.1\02. sum matrix colm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adv multid arrays lab\02. sum matrix colm\obj\Debug\netcoreapp3.1\02. sum matrix colm.dll
+C:\Users\User\source\repos\adv multid arrays lab\02. sum matrix colm\obj\Debug\netcoreapp3.1\02. sum matrix colm.pdb
+C:\Users\User\source\repos\adv multid arrays lab\02. sum matrix colm\obj\Debug\netcoreapp3.1\02. sum matrix colm.genruntimeconfig.cache

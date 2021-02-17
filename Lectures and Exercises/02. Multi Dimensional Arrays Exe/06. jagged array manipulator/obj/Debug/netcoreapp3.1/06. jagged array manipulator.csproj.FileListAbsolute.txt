@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\adv multid arrays exe\06. jagged array manipulator\bin\Debug\netcoreapp3.1\06. jagged array manipulator.exe
+C:\Users\User\source\repos\adv multid arrays exe\06. jagged array manipulator\bin\Debug\netcoreapp3.1\06. jagged array manipulator.deps.json
+C:\Users\User\source\repos\adv multid arrays exe\06. jagged array manipulator\bin\Debug\netcoreapp3.1\06. jagged array manipulator.runtimeconfig.json
+C:\Users\User\source\repos\adv multid arrays exe\06. jagged array manipulator\bin\Debug\netcoreapp3.1\06. jagged array manipulator.runtimeconfig.dev.json
+C:\Users\User\source\repos\adv multid arrays exe\06. jagged array manipulator\bin\Debug\netcoreapp3.1\06. jagged array manipulator.dll
+C:\Users\User\source\repos\adv multid arrays exe\06. jagged array manipulator\bin\Debug\netcoreapp3.1\06. jagged array manipulator.pdb
+C:\Users\User\source\repos\adv multid arrays exe\06. jagged array manipulator\obj\Debug\netcoreapp3.1\06. jagged array manipulator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\adv multid arrays exe\06. jagged array manipulator\obj\Debug\netcoreapp3.1\06. jagged array manipulator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\adv multid arrays exe\06. jagged array manipulator\obj\Debug\netcoreapp3.1\06. jagged array manipulator.AssemblyInfo.cs
+C:\Users\User\source\repos\adv multid arrays exe\06. jagged array manipulator\obj\Debug\netcoreapp3.1\06. jagged array manipulator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adv multid arrays exe\06. jagged array manipulator\obj\Debug\netcoreapp3.1\06. jagged array manipulator.dll
+C:\Users\User\source\repos\adv multid arrays exe\06. jagged array manipulator\obj\Debug\netcoreapp3.1\06. jagged array manipulator.pdb
+C:\Users\User\source\repos\adv multid arrays exe\06. jagged array manipulator\obj\Debug\netcoreapp3.1\06. jagged array manipulator.genruntimeconfig.cache

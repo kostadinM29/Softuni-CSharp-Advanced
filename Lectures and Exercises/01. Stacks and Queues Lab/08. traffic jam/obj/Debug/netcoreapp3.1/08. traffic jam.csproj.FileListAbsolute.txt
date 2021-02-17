@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\test\08. traffic jam\bin\Debug\netcoreapp3.1\08. traffic jam.exe
+C:\Users\User\source\repos\test\08. traffic jam\bin\Debug\netcoreapp3.1\08. traffic jam.deps.json
+C:\Users\User\source\repos\test\08. traffic jam\bin\Debug\netcoreapp3.1\08. traffic jam.runtimeconfig.json
+C:\Users\User\source\repos\test\08. traffic jam\bin\Debug\netcoreapp3.1\08. traffic jam.runtimeconfig.dev.json
+C:\Users\User\source\repos\test\08. traffic jam\bin\Debug\netcoreapp3.1\08. traffic jam.dll
+C:\Users\User\source\repos\test\08. traffic jam\bin\Debug\netcoreapp3.1\08. traffic jam.pdb
+C:\Users\User\source\repos\test\08. traffic jam\obj\Debug\netcoreapp3.1\08. traffic jam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\test\08. traffic jam\obj\Debug\netcoreapp3.1\08. traffic jam.AssemblyInfo.cs
+C:\Users\User\source\repos\test\08. traffic jam\obj\Debug\netcoreapp3.1\08. traffic jam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\test\08. traffic jam\obj\Debug\netcoreapp3.1\08. traffic jam.dll
+C:\Users\User\source\repos\test\08. traffic jam\obj\Debug\netcoreapp3.1\08. traffic jam.pdb
+C:\Users\User\source\repos\test\08. traffic jam\obj\Debug\netcoreapp3.1\08. traffic jam.genruntimeconfig.cache

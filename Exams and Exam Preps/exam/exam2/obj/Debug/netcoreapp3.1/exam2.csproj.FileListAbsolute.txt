@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\exam\exam2\obj\Debug\netcoreapp3.1\exam2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\exam\exam2\obj\Debug\netcoreapp3.1\exam2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\exam\exam2\obj\Debug\netcoreapp3.1\exam2.AssemblyInfo.cs
+C:\Users\User\source\repos\exam\exam2\obj\Debug\netcoreapp3.1\exam2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\exam\exam2\bin\Debug\netcoreapp3.1\exam2.exe
+C:\Users\User\source\repos\exam\exam2\bin\Debug\netcoreapp3.1\exam2.deps.json
+C:\Users\User\source\repos\exam\exam2\bin\Debug\netcoreapp3.1\exam2.runtimeconfig.json
+C:\Users\User\source\repos\exam\exam2\bin\Debug\netcoreapp3.1\exam2.runtimeconfig.dev.json
+C:\Users\User\source\repos\exam\exam2\bin\Debug\netcoreapp3.1\exam2.dll
+C:\Users\User\source\repos\exam\exam2\bin\Debug\netcoreapp3.1\exam2.pdb
+C:\Users\User\source\repos\exam\exam2\obj\Debug\netcoreapp3.1\exam2.dll
+C:\Users\User\source\repos\exam\exam2\obj\Debug\netcoreapp3.1\exam2.pdb
+C:\Users\User\source\repos\exam\exam2\obj\Debug\netcoreapp3.1\exam2.genruntimeconfig.cache
